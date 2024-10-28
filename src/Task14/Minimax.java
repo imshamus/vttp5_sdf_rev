@@ -4,7 +4,7 @@ public class Minimax {
 
     public int calculateLevel(int n){
 
-        // calculateLevel(8) = 1 + calculateLevel(4)
+        // calculateLevel(8) = 1 + calculateLevel(4) 
         // calculateLevel(4) = 1 + calculateLevel(2)
         // calculateLevel(2) = 1 + calculateLevel(1)
         // calculateLevel(1) = 0
